@@ -17,6 +17,7 @@ com/hrms/steps/EmployeeSearchSteps.class
 com/hrms/practice/HW.class
 com/hrms/testbase/BaseClass.class
 com/hrms/practice/storingData.class
+com/hrms/API/steps/practice/HardcodedConstants.class
 com/hrms/steps/LoginSteps.class
 com/hrms/pages/ReportPage.class
 com/hrms/practice/JDBCDemo.class
@@ -25,6 +26,7 @@ com/hrms/practice/MetaData.class
 com/hrms/runners/SmokeRunner.class
 com/hrms/steps/AddEmployeeSteps.class
 com/hrms/utils/ExcelUtility.class
+com/hrms/API/steps/practice/HardcodedExamples.class
 com/hrms/practice/Recap.class
 com/hrms/utils/CommonMethods.class
 com/hrms/pages/LoginPageElements.class
