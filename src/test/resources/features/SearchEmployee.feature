@@ -5,7 +5,7 @@ Feature: Employee Search
     Given user is logged with valid admin credentials
     And user navigate to employee list page
 
-
+@regression
   Scenario: Search employee by id
     When user enters valid employee id "14099"
     And click on search button
